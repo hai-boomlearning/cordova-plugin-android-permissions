@@ -10,6 +10,7 @@ export interface Permissions {
   ACCESS_LOCATION_EXTRA_COMMANDS: "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS";
   ACCESS_MOCK_LOCATION: "android.permission.ACCESS_MOCK_LOCATION";
   ACCESS_NETWORK_STATE: "android.permission.ACCESS_NETWORK_STATE";
+  ACCESS_LOCAL_NETWORK = 'android.permission.ACCESS_LOCAL_NETWORK';
   ACCESS_SURFACE_FLINGER: "android.permission.ACCESS_SURFACE_FLINGER";
   ACCESS_WIFI_STATE: "android.permission.ACCESS_WIFI_STATE";
   ACCOUNT_MANAGER: "android.permission.ACCOUNT_MANAGER";
